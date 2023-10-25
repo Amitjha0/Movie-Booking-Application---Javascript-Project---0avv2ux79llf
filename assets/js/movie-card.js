@@ -25,7 +25,7 @@ export function createMovieCard(movie) {
     <div class="meta-list">
       <div class="meta-item">
         <img
-          src="./assets/images/star.png"
+          
           width="20"
           height="20"
           loading="lazy"
